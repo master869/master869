@@ -2,7 +2,7 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=master869&label=Profile views&color=0e75b6&style=flat" alt="master869" /> </p>
+<p align="left"><a href="https://github.com/master869?tab=followers"><img src="https://img.shields.io/github/followers/master869?label=Followers&style=flat" alt="GitHub followers" /></a></p>
 
 - 🔭 I'm currently working on **embedded systems and IoT projects, including real-time sensor data acquisition and cloud-connected applications.**
 
