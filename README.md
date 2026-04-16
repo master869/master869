@@ -1,16 +1,16 @@
-﻿# Hi 馃憢, I'm Wayne Zhai
+﻿# Hi 👋, I'm Wayne Zhai
 
 ### A passionate developer from around the world
 
 <p align="left"><a href="https://github.com/master869?tab=followers"><img src="https://img.shields.io/github/followers/master869?label=Followers&style=flat" alt="GitHub followers" /></a></p>
 
-- 馃敪 I'm currently working on **embedded systems and IoT projects, including real-time sensor data acquisition and cloud-connected applications.**
+- 🔭 I'm currently working on **embedded systems and IoT projects, including real-time sensor data acquisition and cloud-connected applications.**
 
-- 馃尡 I'm currently learning **embedded Linux, real-time systems, and advanced MCU development**
+- 🌱 I'm currently learning **embedded Linux, real-time systems, and advanced MCU development**
 
-- 馃摣 How to reach me **zhaiwy@seas.upenn.edu**
+- 📫 How to reach me **zhaiwy@seas.upenn.edu**
 
-- 鈿?Fun fact **I play badminton when I鈥檓 not debugging code.**
+- ⚡ Fun fact **I play badminton when I'm not debugging code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
