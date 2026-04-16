@@ -1,0 +1,98 @@
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-04-16T17:45:35.814Z",
+  "profile": {
+    "title": "Wayne Zhai",
+    "subtitle": "A passionate developer from around the world",
+    "currentWork": "embedded systems and IoT projects, including real-time sensor data acquisition and cloud-connected applications.",
+    "currentLearn": "embedded Linux, real-time systems, and advanced MCU development",
+    "collaborateOn": "",
+    "helpWith": "",
+    "ama": "",
+    "contact": "zhaiwy@seas.upenn.edu",
+    "funFact": "I play badminton when I’m not debugging code.",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "",
+    "blog": "",
+    "resume": ""
+  },
+  "social": {
+    "github": "master869",
+    "dev": "",
+    "linkedin": "",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "anaconda",
+    "c",
+    "git",
+    "huggingface",
+    "java",
+    "jupyter",
+    "linux",
+    "numpy",
+    "pandas",
+    "python",
+    "pytorch",
+    "tensorflow"
+  ]
+}
